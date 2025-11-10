@@ -19,7 +19,16 @@ Reasignación: Puedes cambiar el valor de una variable en cualquier momento, e i
 Uso: Una vez creada, puedes usar el nombre de la variable en tu código, y Python lo reemplazará con su valor. La función print() puede mostrar su contenido. 
 
 ```python
-x = 42
-mensaje = f"El valor de x es {x}"
-print(mensaje)
+# Ejemplo de creación y uso de variables
+mi_nombre = "Juan"
+mi_edad = 30
+print(mi_nombre)
+print(mi_edad)
+
+# Ejemplo de reasignación de valor y tipo
+mi_edad = 31
+print(mi_edad)
+
+mi_edad = "treinta y uno" # Ahora es una cadena de texto
+print(mi_edad)
 ```
