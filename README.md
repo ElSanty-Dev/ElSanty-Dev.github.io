@@ -18,3 +18,8 @@ Reasignación: Puedes cambiar el valor de una variable en cualquier momento, e i
 
 Uso: Una vez creada, puedes usar el nombre de la variable en tu código, y Python lo reemplazará con su valor. La función print() puede mostrar su contenido. 
 
+```python
+x = 42
+mensaje = f"El valor de x es {x}"
+print(mensaje)
+```
