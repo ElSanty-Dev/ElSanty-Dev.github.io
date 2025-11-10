@@ -32,3 +32,4 @@ print(mi_edad)
 mi_edad = "treinta y uno" # Ahora es una cadena de texto
 print(mi_edad)
 ```
+Referencias: se uso el GOOGLE MODO IA para hacerle preguntas sobre el tema.
