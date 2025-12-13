@@ -12,3 +12,6 @@ def tortuga():
 
 tortuga()
 ```
+Asi se veria en consola:
+
+<img width="1157" height="71" alt="image" src="https://github.com/user-attachments/assets/0dfa31d1-2b12-4594-ae69-4c354ee301f6" />
