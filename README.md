@@ -35,5 +35,5 @@ print(mi_edad)
 Referencias: se uso el GOOGLE MODO IA para hacerle preguntas sobre el tema.
 
 En el sigueinte enlace trabajaremso mas a fondo el tema de variables y funciones con algunos retos:
-[Ver código del Reto 5](/tarea2/reto5_tortuga_escaleras.py)
+[Ver código del Reto 5](/tarea2/tarea2_unidad1.md)
 
