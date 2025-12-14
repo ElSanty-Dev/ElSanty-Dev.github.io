@@ -95,6 +95,8 @@ En este reto se encapsulan los movimientos de la tortuga en funciones.
 La función adelante(n) simula el avance horizontal y abajo(n) simula el descenso vertical.
 El emoji 🐢 representa la posición final de la tortuga, formando visualmente una figura en forma de “L”.
 
+Este seria el codigo en Python:
+
 ```python
 posicion_horizontal = 0
 
@@ -142,6 +144,8 @@ abajo(2)
 Comportamiento esperado:
 
 <img width="314" height="355" alt="image" src="https://github.com/user-attachments/assets/9f84e7fc-f354-41f6-abc5-ec6c00c96158" />
+
+Este seria el codigo en Python:
 
 ```python
 posicion_horizontal = 0
