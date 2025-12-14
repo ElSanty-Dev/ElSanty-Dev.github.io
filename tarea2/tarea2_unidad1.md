@@ -1,5 +1,8 @@
-Reto #1
+# Reto #1
 
+simula el comportamiento de la tortuga usando solo print() e input().
+
+Se recrea el movimiento de la tortuga únicamente con texto, usando funciones, print() y input() para pedir valores al usuario.
 Este programa simula el movimiento de una tortuga de forma horizontal usando únicamente texto.
 El usuario ingresa la cantidad de pasos y el programa dibuja un rastro continuo con guiones (-) y una flecha (>), representando el avance de la tortuga hacia la derecha.
 
