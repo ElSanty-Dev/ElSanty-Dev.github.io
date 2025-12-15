@@ -42,9 +42,11 @@ En el sigueinte enlace trabajaremos más a fondo el tema de variables y funcione
 
 En esta sección se encuentran los repositorios correspondientes al ejercicio Mini-Turtle, donde se aplican conceptos de modularidad y Programación Orientada a Objetos en Python.
 
-- 🔹 **Ejercicio 1 – Versión Funcional**  
+- 🔹 **Ejercicio 1 – Versión Funcional**
+  
   https://github.com/ElSanty-Dev/Ejercicio_1_mini_turtle 
 
 - 🔹 **Ejercicio 2 – Versión Orientada a Objetos (POO)**
+  
   https://github.com/ElSanty-Dev/Ejercicio_2_mini_turtle_oo_task
 
