@@ -44,9 +44,10 @@ En esta sección se encuentran los repositorios correspondientes al ejercicio Mi
 
 - 🔹 **Ejercicio 1 – Versión Funcional**
   
-  https://github.com/ElSanty-Dev/Ejercicio_1_mini_turtle 
+  [Repositorio en GitHub](https://github.com/ElSanty-Dev/Ejercicio_1_mini_turtle) 
 
 - 🔹 **Ejercicio 2 – Versión Orientada a Objetos (POO)**
   
-  https://github.com/ElSanty-Dev/Ejercicio_2_mini_turtle_oo_task
+  [Repositorio en GitHub](https://github.com/ElSanty-Dev/Ejercicio_2_mini_turtle_oo_task)
+
 
